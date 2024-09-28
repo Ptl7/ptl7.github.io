@@ -1,6 +1,6 @@
 Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-![Image of powerbi logo](images/power-bi-icon.png)
+![Image of powerbi logo](images/power-bi-icon-r.png)
 
 ## This is a title
 
