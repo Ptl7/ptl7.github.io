@@ -2,5 +2,5 @@
 
 ##Power BI and Fabric made simple
 
-[Link to my linked-in]([https://www.linkedin.com/in/lukasz-szymkowiak/]).
+[Link to my linked-in]([https://www.linkedin.com/in/lukasz-szymkowiak]).
 
